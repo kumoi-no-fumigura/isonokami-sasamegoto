@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/isonokami-sasamegoto",
  "yomi": "いそのかみのささめごと",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "宝暦13年（1763）成、文化13年（1816）刊",
+  "author": "本居宣長（1730〜1801）",
+  "desc": "問いに答える形で歌の本質や起源を論じ、歌の本質を「もののあはれ」に見出した宣長の歌論。未完の作で、没後に刊行された。高田（小山田）与清の跋を付す。"
+ },
  "editions": [
   {
    "pid": "993381",
